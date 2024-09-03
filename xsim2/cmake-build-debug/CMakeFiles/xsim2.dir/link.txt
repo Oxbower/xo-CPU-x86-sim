@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/xsim2.dir/main.c.o CMakeFiles/xsim2.dir/xcpu.c.o CMakeFiles/xsim2.dir/xcpuprnt.c.o CMakeFiles/xsim2.dir/xmem.c.o -o xsim2 
